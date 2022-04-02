@@ -1,7 +1,7 @@
 # VNAQI-Analysis
-This project is to analyze and visualize Vietnam Air Quality Index (VNAQI) \
+This project is to analyze and visualize Vietnam Air Quality Index (VNAQI) 
 
-Data and source code are restricted, so we cannot public these at the moment. \
+**Data and source code are restricted, so we cannot public these at the moment.
 
 Tools that we used to conduct this project:
 - Python: crawling preprocessing and exploring data.
